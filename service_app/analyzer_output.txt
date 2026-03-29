@@ -1,0 +1,4 @@
+[error] The element type 'String' can't be assigned to the list type 'FontFeature' (D:\service_app\service_app\lib\features\provider\presentation\active_job_screen.dart:237:35)
+[info] 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss (D:\service_app\service_app\lib\features\provider\presentation\provider_home_screen.dart:100:53)
+[info] 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss (D:\service_app\service_app\lib\features\provider\presentation\provider_home_screen.dart:331:35)
+[info] 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss (D:\service_app\service_app\lib\features\provider\presentation\provider_home_screen.dart:349:46)

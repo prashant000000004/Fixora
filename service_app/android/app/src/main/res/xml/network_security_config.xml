@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<network-security-config>
+    <!-- Allow cleartext HTTP for development servers -->
+    <domain-config cleartextTrafficPermitted="true">
+        <!-- Android emulator: 10.0.2.2 maps to host machine's localhost -->
+        <domain includeSubdomains="true">10.0.2.2</domain>
+        <!-- Physical device: common LAN IPs -->
+        <domain includeSubdomains="true">192.168.1.44</domain>
+        <!-- iOS simulator / desktop -->
+        <domain includeSubdomains="true">localhost</domain>
+        <domain includeSubdomains="true">127.0.0.1</domain>
+    </domain-config>
+</network-security-config>

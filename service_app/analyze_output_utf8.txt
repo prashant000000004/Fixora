@@ -1,0 +1,7 @@
+﻿Analyzing service_app...                                        
+
+  error - The method 'PinCodeTextField' isn't defined for the type '_OtpScreenState' - lib\features\auth\presentation\otp_screen.dart:166:15 - undefined_method
+  error - Undefined name 'AnimationType' - lib\features\auth\presentation\otp_screen.dart:172:32 - undefined_identifier
+  error - The method 'PinTheme' isn't defined for the type '_OtpScreenState' - lib\features\auth\presentation\otp_screen.dart:184:27 - undefined_method
+  error - Undefined name 'PinCodeFieldShape' - lib\features\auth\presentation\otp_screen.dart:185:26 - undefined_identifier
+
